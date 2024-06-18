@@ -1,6 +1,6 @@
 {
   "short_name": "Weather",
-  "name": "Weather Application",
+  "name": "Weather App - Get real-time weather updates for any city",
   "icons": [
     {
       "src": "favicon.ico",
